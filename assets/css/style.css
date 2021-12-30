@@ -945,6 +945,11 @@ section {
   font-size: 13px;
   color: #eaebf0;
 }
+/* .heading-icon {
+  height: 00px;
+  width: 200ps;
+} */
+
 @media (max-width: 1199px) {
   #footer {
     position: static;
